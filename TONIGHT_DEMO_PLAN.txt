@@ -1,0 +1,52 @@
+﻿LA PULPERIA NICA — TONIGHT DEMO PLAN
+Date: November 2, 2026
+
+DEMO GOAL
+Create a polished, clickable storefront prototype that communicates the La Pulperia Nica streetwear concept and its connection to Nicaraguan neighborhood culture. This is a presentation demo, not a live store.
+
+CORE AUDIENCE
+Nicaraguans in the United States who want clothing that helps them feel connected to home. Keep the store welcoming and easy to understand for other U.S. shoppers too.
+
+TONIGHT'S SCOPE
+- One responsive storefront landing page.
+- A short hero message and a concise brand story.
+- Three draft collection concepts, clearly presented as concepts.
+- One product detail interaction with an illustrative price.
+- A demo-only purchase button that displays a confirmation without collecting payment.
+- A visible notice that products, prices, and checkout are not live.
+
+SUGGESTED PAGE CONTENT
+1. Hero: “Everyday clothing. Neighborhood soul.” Treat this as draft copy, not approved final brand language.
+2. Collection: three concept cards with a title, short description, and “View design” interaction.
+3. Product detail: concept description, illustrative price, and demo purchase button.
+4. Our story: explain that the brand draws inspiration from the pulperia as a familiar neighborhood shop and social center.
+5. Demo notice: “Prototype only — designs and prices are illustrative. No orders or payments are being taken.”
+
+DESIGN GUIDANCE
+Use a contemporary streetwear layout with a warm neighborhood-store character. Keep cultural references specific and respectful; use only references the founder can explain with confidence. Avoid generic souvenir styling and unsupported claims about cultural meaning. Existing project-folder images may be reviewed as inspiration, but do not assume they are approved La Pulperia assets.
+
+TIMEBOX (ABOUT FOUR HOURS)
+1. Pick a visual direction and three draft design ideas — 30 minutes.
+2. Build the responsive landing page and collection cards — 90 minutes.
+3. Add the product detail and demo-only purchase interaction — 45 minutes.
+4. Refine mobile layout, copy, and the demo walkthrough — 45 minutes.
+5. Keep 30 minutes as a buffer for setup and fixes.
+
+TWO-HOUR FALLBACK
+Build one polished landing page with a hero, three concept cards, a short story, and the demo notice. Skip the product detail interaction.
+
+WALKTHROUGH (ABOUT TWO MINUTES)
+1. Introduce the audience and the cultural connection behind the concept.
+2. Show the storefront and explain the visual direction.
+3. Open one concept and explain its intended meaning.
+4. State what remains undecided before a real launch: approved designs, language, ecommerce platform, print-on-demand provider, budget, pricing, and launch timing.
+
+DONE WHEN
+- The page works at desktop and mobile widths.
+- The three concepts are visibly drafts.
+- Every visible button works or is removed.
+- No payment, order, or customer data is collected.
+- The demo clearly says it is not a live store.
+
+OUT OF SCOPE TONIGHT
+Live checkout, ecommerce accounts, print-on-demand integration, fulfillment and shipping policies, final brand identity, market validation, and launch claims.
